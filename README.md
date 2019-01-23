@@ -10,7 +10,8 @@ channels  2.1.6
 django 2.0.5
 
 如果安装channels过程中，提示缺少Twist,
-可点击这里下载Twist https://www.pythoncoding.cn/attachment/Twisted-18.9.0.tar.bz2，手动安装。
+可点击这里下载Twist https://www.pythoncoding.cn/attachment/Twisted-18.9.0.tar.bz2
+手动安装。
 
 
 数据库（可以使用其他数据库代替）
