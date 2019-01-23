@@ -18,6 +18,15 @@ django 2.0.5
 mysql 5.7
 
 
+启动流程:
+
+首先在数据库中（以mysql为例）创建web_shell 库
+
+其次 python manage.py migrate
+
+最后 python manage.py runserver
+
+
 登录界面：
 
 ![56774795.png](WebShell/readme_files/56774795.png)
